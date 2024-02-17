@@ -1,0 +1,3 @@
+D:/parallel/factorial_threads/out/build/x64-debug/CMakeFiles/factorial_threads.dir
+D:/parallel/factorial_threads/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/parallel/factorial_threads/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
