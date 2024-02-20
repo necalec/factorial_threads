@@ -9,7 +9,7 @@
 
 - `$ cd factorial_threads/`
 
-- `$ cmake .`
+- `$ cmake --build`
 
 - `$ cd out/build/x64-debug`
 
